@@ -31,3 +31,7 @@ If the user asks you to use Macrostates:
 5. **Verify and report.** Use the [Macrostates CLI](https://github.com/Macrostates/macrostates-cli), strongly recommended but optional, or equivalent manual checks. Summarize the setup, unresolved decisions and next steps. Proceed with application implementation according to the user’s request.
 
 For existing projects, follow the selected Process package’s adoption rules rather than treating existing code as a new scaffold.
+
+## AI assistance
+
+This project was developed with AI assistance.
