@@ -32,6 +32,19 @@ If the user asks you to use Macrostates:
 
 For existing projects, follow the selected Process package’s adoption rules rather than treating existing code as a new scaffold.
 
+## Install the optional CLI
+
+With Python 3.12 or newer, install from PyPI in your Python environment:
+
+```bash
+python -m pip install macrostates-cli
+macrostates --help
+```
+
+The CLI helps install and check specification packages. See its
+[README](https://github.com/Macrostates/macrostates-cli#readme) for setup and
+supported versions. Coding agents can use equivalent manual checks when needed.
+
 ## AI assistance
 
 This project was developed with AI assistance.
