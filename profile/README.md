@@ -57,7 +57,7 @@ its core branching and release operations do not require a hosting account.
 With Python 3.12 or newer, install from PyPI in your Python environment:
 
 ```bash
-python -m pip install --upgrade "macrostates-cli>=0.4.0"
+python -m pip install --upgrade "macrostates-cli>=0.5.0"
 macrostates --help
 ```
 
